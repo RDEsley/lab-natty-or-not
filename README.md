@@ -1,7 +1,7 @@
 
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-Teste clicando aqui -> [https://lab-natty-or-not-richard.vercel.app/](Natty or Not - Richard)
+Teste clicando aqui -> [Natty or Not Richard](https://lab-natty-or-not-richard.vercel.app/)
 
 ## 🚀 Introdução
 
