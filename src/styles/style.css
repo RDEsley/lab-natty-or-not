@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  text-align: center;
+  width: 90%; /* Aumente a largura */
+  max-width: 800px; /* Ajuste o limite máximo */
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 30px; /* Aumente o espaçamento interno */
+}
+
+header h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+#score h3 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-between; /* Ajuste o espaçamento entre as imagens */
+  gap: 20px; /* Adiciona espaço fixo entre os elementos */
+  margin-bottom: 30px; /* Aumente o espaçamento em relação ao conteúdo abaixo */
+  width: 100%; /* Expanda para ocupar toda a largura */
+}
+
+img {
+  width: 48%; /* Ajuste a largura relativa */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.buttons button {
+  background-color: #4caf50;
+  color: white;
+  font-size: 1rem;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.buttons button:hover {
+  background-color: #45a049;
+}
+
+footer {
+  margin-top: 20px;
+  font-size: 0.8rem;
+}
